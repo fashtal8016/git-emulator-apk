@@ -1,0 +1,6 @@
+{
+  "name": "KotlinForge AI IDE",
+  "description": "Professional Android IDE for code editing, GitHub sync, project management, and automated cloud APK builds via GitHub Actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
